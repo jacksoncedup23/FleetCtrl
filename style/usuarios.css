@@ -1,0 +1,24 @@
+
+body{
+    /* background-image: url("https://static.vecteezy.com/system/resources/previews/005/247/371/non_2x/abstract-blurry-background-of-employees-seminar-and-de-focus-teamwork-staffs-working-meeting-in-conference-room-with-projector-screen-free-photo.jpg"); */
+    background-image: url("../images/bg-usuarios.png");
+    /* background-image: url("https://supposeudrive.com/wp-content/uploads/Whats-the-Perfect-Fleet-Our-Tips-for-Your-Needs-SupposUDrive.jpg"); */
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+
+}
+
+.userImgView {
+    position: relative;
+    margin: auto;
+    margin-top: 0;
+    width: 250px;
+    height: 250px;
+    border-radius: 100%;
+    object-fit: cover;
+}
+
+.modal {
+    --bs-modal-width: 600px;
+}

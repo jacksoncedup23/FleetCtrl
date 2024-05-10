@@ -1,0 +1,39 @@
+.lnkConsulta:hover {
+    color:rgb(13, 110, 253);
+    text-decoration: underline;
+    cursor: pointer;
+}
+.bgPanel {
+    background-color: rgba(0, 0, 0, 0.7);
+    margin-top: 2rem;
+    padding: 2rem;
+    border-radius: 0.5rem;
+    color: darkgrey;
+}
+body{
+    /* background-image: url("https://vetsez.com/wp-content/uploads/2020/03/AdobeStock_291217289-copy.jpg"); */
+    background-image: url("../images/bg-manutencao.png");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+   
+
+}
+
+.lnkConsulta:hover {
+    color:rgb(13, 110, 253);
+    text-decoration: underline;
+    cursor: pointer;
+}
+.iconImg {
+    width: 24px;
+    height: 24px;
+}
+.strk {
+    text-decoration: line-through;
+}
+
+.info_remove {
+    width: 24px;
+    margin-right: 10px;
+}

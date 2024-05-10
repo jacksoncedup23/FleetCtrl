@@ -1,0 +1,15 @@
+body{
+    /* background-image: url("https://vetsez.com/wp-content/uploads/2020/03/AdobeStock_291217289-copy.jpg"); */
+    /* https://supposeudrive.com/wp-content/uploads/Whats-the-Perfect-Fleet-Our-Tips-for-Your-Needs-SupposUDrive.jpg */
+    background-image: url("../images/bg-veiculos.png");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+
+}
+
+.tipoIcon {
+    max-height: 40px;
+    max-width: 40px;
+    margin-right: 5px;
+}
